@@ -3,7 +3,7 @@
 ## Description
 The 330 Hours - Dari Conversational Speech Data collected by telephone involved 452 native speakers, developed with proper balance of gender ratio, Speakers would choose a few familiar topics out of the given list and start conversations to ensure dialogues' fluency and naturalness. The recording devices are various mobile phones. The audio format is 8kHz, 8bit, WAV, and all the speech data was recorded in quiet indoor environments. All the speech audio was manually transcribed with text content, the start and end time of each effective sentence, and speaker identification.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1240?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1240?source=Github
 
 # Specifications
 
